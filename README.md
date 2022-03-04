@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Bruno Pontes!
 - 🔭 Currently working on front-end development;
 - 🌱 JavaScript lover;
-- 😄 Pronouns: he/him;
+- 😄 he/him;
 
 <div align="center">
   <a href="https://github.com/brpontes">

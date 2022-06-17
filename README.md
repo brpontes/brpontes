@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Bruno Pontes!
 - 🔭 Currently working on front-end development;
-- :superhero_man: JavaScript lover;
+- :yellow_heart: JavaScript lover;
 - 😄 he/him;
 
 <div align="center">

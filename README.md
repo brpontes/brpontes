@@ -1,28 +1,45 @@
-### Hi there 👋 I'm Bruno Pontes!
-- 🔭 Currently working on front-end development;
-- :yellow_heart: JavaScript lover;
-- 😄 he/him;
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<div align="center">
-  <a href="https://github.com/brpontes">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brpontes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brpontes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" title="HTML"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" title="CSS"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" title="JavaScript"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" title="Vue"></code>
-<code><img height="25" src="https://avatars0.githubusercontent.com/u/70142?s=200&v=4" alt="jQuery" title="jQuery"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" title="Sass"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" title="Node.js"></code>
-<code><img height="25" src="https://expressjs.com/images/express-facebook-share.png" alt="expressjs" title="Express"></code>
-<code><img height="25" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" alt="git" title="Git"></code>
-</div>
-  
- ##
-  
-<div>
-  <a href="mailto:brunodeveloper18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunopontesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+<h3 align="center">
+Hey there, I'm Bruno Pontes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+<a href="mailto:brunodeveloper18@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/g‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/stan-daniels-roth-278478127"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</p>
+
+### 📖 &nbsp; About me
+
+* 💻 I'm a full stack web developer
+* 🎨 Working as front end developer with Vue
+* 🌱 Currently learning about Java with Spring Boot
+* 🎓 Graduated in Systems Analysis and Development since 2015
+* 🚀 Experience with projects using React, AngularJS, NodeJS, PHP, Scala and AWS
+
+
+### 🛠 &nbsp; Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   
+   ![VueJS](https://img.shields.io/badge/VueJS%20-%2343bb83.svg?style=for-the-badge&logoColor=black)
+   ![React](https://img.shields.io/badge/React%20-%23447c94.svg?style=for-the-badge&logo=react&logoColor=white)
+   ![Angular](https://img.shields.io/badge/AngularJS%20-%23d00430.svg?style=for-the-badge&logo=angular&logoColor=white)
+   ![Electron](https://img.shields.io/badge/Electron%20-%232c2c3c.svg?style=for-the-badge&logo=electron&logoColor=9beafa)
+   ![Sass](https://img.shields.io/badge/Sass%20-%23d479a5.svg?style=for-the-badge&logo=sass&logoColor=white)
+   
+   ![NodeJS](https://img.shields.io/badge/Nodejs%20-%236c8c44.svg?style=for-the-badge&logo=node&logoColor=white)
+   ![PHP](https://img.shields.io/badge/PHP%20-%236c749c.svg?style=for-the-badge)
+   ![Java](https://img.shields.io/badge/Java%20-%23d00430.svg?style=for-the-badge)
+   ![Scala](https://img.shields.io/badge/Scala%20-%23d00430.svg?style=for-the-badge&logo=scala&logoColor=white)
+   ![AWS](https://img.shields.io/badge/aws%20-%23f9950a.svg?style=for-the-badge)
+
+### 🔥 My stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=brpontes&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=4d4e4f&icon_color=4d4e4f&text_color=4d4e4f&bg_color=white" alt="Bruno Pontes Github Stats">
+
+<br />
+<br />

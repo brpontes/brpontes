@@ -40,6 +40,3 @@ Hey there, I'm Bruno Pontes <img src="https://media.giphy.com/media/hvRJCLFzcasr
 ### 🔥 My stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=brpontes&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=4d4e4f&icon_color=4d4e4f&text_color=4d4e4f&bg_color=white" alt="Bruno Pontes Github Stats">
-
-<br />
-<br />

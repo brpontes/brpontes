@@ -35,8 +35,9 @@ Hey there, I'm Bruno Pontes <img src="https://media.giphy.com/media/hvRJCLFzcasr
    ![PHP](https://img.shields.io/badge/PHP%20-%236c749c.svg?style=for-the-badge)
    ![Java](https://img.shields.io/badge/Java%20-%23d00430.svg?style=for-the-badge)
    ![Scala](https://img.shields.io/badge/Scala%20-%23d00430.svg?style=for-the-badge&logo=scala&logoColor=white)
+   ![Docker](https://img.shields.io/badge/Docker%20-%230b83c6.svg?style=for-the-badge&logo=docker&logoColor=white)
    ![AWS](https://img.shields.io/badge/aws%20-%23f9950a.svg?style=for-the-badge)
 
-### 🔥 My stats
+### 🔥 &nbsp; My stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=brpontes&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=4d4e4f&icon_color=4d4e4f&text_color=4d4e4f&bg_color=white" alt="Bruno Pontes Github Stats">

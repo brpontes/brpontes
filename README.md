@@ -12,9 +12,8 @@ Hey there, I'm Bruno Pontes <img src="https://media.giphy.com/media/hvRJCLFzcasr
 
 ### 📖 &nbsp; About me
 
-* 💻 I'm a full stack web developer
-* 🎨 Working as front end developer with Vue
-* 🌱 Currently learning about Java with Spring Boot
+* 💻 Working as Full Stack Developer with Java/Vue
+* 🌱 Currently learning about Software Architecture
 * 🎓 Graduated in Systems Analysis and Development since 2015
 * 🚀 Experience with projects using React, AngularJS, NodeJS, PHP, Scala and AWS
 
